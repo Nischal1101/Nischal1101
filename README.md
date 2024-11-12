@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nischal kafle</h1>
-<h3 align="center">An aspiring frontend developer from Nepal</h3>
+<h3 align="center">An aspiring fullstack developer from Nepal</h3>
 
 - 🔭 I’m currently working on [medrepo](github.com/nischal1101/medrepo)
 
